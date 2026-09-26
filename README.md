@@ -17,8 +17,6 @@ MSc Business Analytics candidate at **UCD Michael Smurfit Graduate Business Scho
 | | |
 |---|---|
 | 🥇 **Winner, Cisco ThingQbator Cohort 6** | Selected from 1,050+ teams across India for startup seed funding and incubation |
-| 🏅 **Finalist, Hack AI, IIT Bombay Techfest** | AI competition at Asia's largest science and technology festival |
-| 🎓 **First Class with Distinction** | B.Tech Computer Science Engineering, 8.04/10 CGPA |
 
 ---
 
@@ -42,11 +40,7 @@ Sambin built **AmyR (Automate My Retail)**, an AI-enabled POS and inventory mana
 
 ## 🛠️ Projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| [**Custom GPT**](https://github.com/YOUR-USERNAME/REPO-NAME) | Chatbot that answers questions using documents the user uploads | Flutter, LangChain, Firebase, OpenAI API |
-| [**PlantID**](https://github.com/YOUR-USERNAME/REPO-NAME) | Mobile app that identifies plant species using external plant recognition data | Flutter, plant.id API, BeautifulSoup |
-| [**Retail Voice Assistant**](https://github.com/YOUR-USERNAME/REPO-NAME) | B.Tech final year project: AI voice assistant for automated inventory management in retail | Python, NLP, speech recognition |
+
 
 ---
 
